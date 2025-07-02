@@ -1,29 +1,27 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Use Case: Debugging with GenAI</span>
   <span class="subhead">Setup</span>
 </h1>
 
 ## Setup
 
-tktk The below is a generic starting point for lecture setup. You may need to make adjustments to this.
+Before you start this module, let’s get ready to work with code and GenAI side-by-side.
 
-Open your Terminal application and navigate to your <code class="filepath">~/code/ga/lectures</code> directory:
+---
 
-```bash
-cd ~/code/ga/lectures
-```
+### What you need
 
-Make a new directory called <code class="filepath">tktk-module-name</code>, then enter this directory:
+- Access to [Google Colab](https://colab.research.google.com/) in your web browser.
+- Access to ChatGPT (or your organization’s GenAI tool) in another browser tab.
 
-```bash
-mkdir tktk-module-name
-cd tktk-module-name
-```
+---
 
-Open the contents of the directory in VS Code:
+### Steps
 
-```bash
-code .
-```
+1. **Open a new, blank Google Colab notebook** in your browser.
+2. Make sure you’re signed in so your work is saved.
+3. Keep your ChatGPT tab open—you’ll switch between them during activities.
 
-tktk Are there more lecture setup steps? Don't forget to add them here.
+> 💡 If you’re new to Colab:  
+> No installation is needed. Just click “File” → “New notebook” in Colab and you’re ready to code.
+
